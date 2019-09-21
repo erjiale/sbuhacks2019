@@ -13,6 +13,12 @@ header {
 	list-style: none;
 }
 
+.picgallery{
+	height: 500px;
+	background-color: black;
+	color: white;
+}
+
 .img-gallery {
 	width: 80%;
 }
