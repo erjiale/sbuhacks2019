@@ -4,7 +4,17 @@ header {
 	color: white;
 }
 
-/*.bg-black {
+ul, li{
+	margin: 0 0 0 0;
+}
+
+form{
+	padding-top: 150px;
+	margin:auto;
+}
+
+.bg-black {
+
 	background-color: black;
 	color: white;
 }*/
@@ -13,7 +23,7 @@ header {
 	list-style: none;
 }
 
-.picgallery{
+.formContainer{
 	height: 500px;
 	background-color: black;
 	color: white;
