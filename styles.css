@@ -24,8 +24,11 @@ form{
 
 .formContainer{
 	height: 500px;
-	background-color: black;
+	/*background-color: black;*/
 	color: white;
+	background-image: url("images/connection.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 .img-gallery {
