@@ -1,0 +1,13 @@
+header {
+	padding: 2em 4em;
+	color: white;
+}
+
+.bg-black {
+	background-color: black;
+	color: white;
+}
+
+.rem-bullet {
+	list-style: none;
+}
