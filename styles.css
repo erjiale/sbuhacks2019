@@ -1,5 +1,6 @@
 header {
-	padding: 2em 4em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 	color: white;
 }
 
@@ -12,8 +13,17 @@ header {
 	list-style: none;
 }
 
+<<<<<<< HEAD
 .picgallery{
 	height: 500px;
 	/*background-color: black;*/
 	color: white;
+=======
+.img-gallery {
+	width: 80%;
+}
+
+.img-size {
+	width:100%;
+>>>>>>> fba665c5f9762bc531a2ac639f6f3cbdb44d8e29
 }
