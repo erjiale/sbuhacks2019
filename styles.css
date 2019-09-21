@@ -4,10 +4,10 @@ header {
 	color: white;
 }
 
-.bg-black {
+/*.bg-black {
 	background-color: black;
 	color: white;
-}
+}*/
 
 .rem-bullet {
 	list-style: none;
@@ -25,9 +25,4 @@ header {
 
 .img-size {
 	width:100%;
-}
-
-.img-desc {
-	width:100%;
-	border: 1px solid rgb(0,0,0);
 }
